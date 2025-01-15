@@ -1,5 +1,13 @@
 # React + TypeScript + Vite
 
+
+https://erickcastroo.github.io/Gastitos/
+
+(Editar o Eliminar gasto es con Swipe a la Derecha e Izquierda)
+##
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
