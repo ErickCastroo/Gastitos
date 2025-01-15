@@ -57,7 +57,7 @@ function GastosDetalles({ gasto }: GastosDetallesProps) {
       >
         <div className='bg-white shadow-lg p-6 w-full border-b border-gray-200 flex gap-5 items-center'>
           <div>
-            <img src={`/icono_${infoCategoria.icon}.svg`} alt={infoCategoria.name} className='w-20' />
+          <img src={`/Gastitos/icono_${infoCategoria.icon}.svg`} alt={infoCategoria.name} className='w-20' />
           </div>
 
           <div className='flex-1 space-y-2'>
